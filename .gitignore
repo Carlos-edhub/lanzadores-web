@@ -1,0 +1,4 @@
+#Este parte del código es para que no se suban a Github archivos que genere automaticamente Python o Vs
+--pycache--/
+*.pyc
+.vscode/ 
